@@ -1,0 +1,2 @@
+- Python 3.6+ (recommended: Python 3.8 or newer)
+- Modules : validators, requests, beautifulsoup4
